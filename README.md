@@ -1,4 +1,4 @@
-# CS5180-Masters
+# CS5180-Reinforcement Learning [Masters]
 The following are the successful implementations of several RL problems completed towards CS5180 course @ Northeastern University in the capacity of Masters in AI student.
 **Term: Spring 2023**
 
